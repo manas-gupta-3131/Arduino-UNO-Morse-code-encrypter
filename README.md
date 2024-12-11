@@ -9,7 +9,7 @@
 - **User-friendly interface**: Simple and interactive.
 
 ---
-![Tinker CAD Simulation](https://www.dropbox.com/scl/fi/0b0j0upogeh2oc9gccur8/Screenshot-2024-12-12-002245.png?rlkey=0gjk7qpvirkrx63e8xzh3iksn&st=qdu62lq0&dl=0)
+![Tinker CAD Simulation](https://previews.dropbox.com/p/thumb/ACdxmxDfRd6ze4KzYDRHuRBrHSXTB1fzjqIguzt4XDmqetifCHRjq5oNs4rUx5msiGI4XwQCCcs4Q3MTOJQlBtHcYLr8ZaGmXxnc9B6XXXvsaVusliG2YE2NGnWfKMxpCCP0PfM45OVwJYfqkpI8E6ULZpc_fnmLlnOeR2HjN2y14HNeAsV3uxNrrUj-eR1Pwnjxrd82ITOCywpmXHRmleINeylMsHMWtDzJesIdi-f6McskdYRpsozOg5JQB8Ayihi7lILG_CVFmhbDVzjOCIFKhk2I4RQ5-X9cgalyX0ExKcja4fiwNQs1-1zSmrbkb-WmG6_nKy3YYG5zD94GkJsj/p.png?is_prewarmed=true)
 
 
 ### **Installation**
