@@ -10,6 +10,7 @@
 
 ---
 ![Tinker CAD Simulation](Tinker CAD sim.png)
+
 ### **Installation**
 
 To get started with the **Arduino UNO Morse Code Encrypter**, follow these simple steps:
