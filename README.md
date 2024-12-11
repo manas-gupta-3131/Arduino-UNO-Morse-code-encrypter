@@ -9,7 +9,7 @@
 - **User-friendly interface**: Simple and interactive.
 
 ---
-![Tinker CAD Simulation](Tinker CAD sim.png)
+![Tinker CAD Simulation](Tinker CAD.png)
 
 ### **Installation**
 
